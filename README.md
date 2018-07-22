@@ -4,7 +4,7 @@ using python
 so you have set your working directoly well 
 and install this model of python 
 numpy 
-matplotlib
+, matplotlib
 and pandas 
 
 and finally thank you 
